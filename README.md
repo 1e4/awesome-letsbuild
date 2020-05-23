@@ -16,6 +16,8 @@ Welcome to a list of Awesome Resources. For this unfamiliar with an "Awesome" li
 
 Below is a list of game engines that allows you to build various types of games.
 
+[Godot](https://godotengine.org/) is a game engine with various build targets and is open source with a large and active community. Has very strong 2D tools, and 3D is improving constantly.
+
 [Phaser](https://phaser.io/) is a Desktop and Mobile HTML5 game framework
 
 [MelonJS](http://melonjs.org/) is an open source HTML5 game engine that empowers developers and 
@@ -40,13 +42,21 @@ designers to focus on content.
 [Graphic River](https://graphicriver.net) is a marketplace dedicated towards graphics, logos, fonts, icons and more
 
 ## 3D Models, assets and textures
+
 [3DOcean](https://3docean.net/) is a marketplace for 3d models, textures, shaders and so much more
 
 [Itch.io](https://itch.io/game-assets) is an indie game hosting marketplace, it has a range of different things including music, models, games, books, comics, you name it, Itch has it.
 
 ## Tutorials
 
-
 [Learn Unity](https://learn.unity.com/) is a platform by Unity for Unity, it's a one stop shop for everything you'll need Unity.
 
-[Unreal Docs](https://docs.unrealengine.com/en-US/index.html) Not quite what Unity has as a platform for learning but Unreal provides a boat load of documentation, tutorials, snippits and guides.
+[Ray Wenderlich](https://www.raywenderlich.com/) is a third party learning platform with tons of tutorials and core concept resources.
+
+### Unreal
+
+[Unreal Docs](https://docs.unrealengine.com/en-US/index.html) Unreal provides a boat load of documentation, tutorials, snippets and guides.
+
+[Unreal Learning](https://learn.unrealengine.com/) is a learning platform for many different pathways of using Unreal, from content creators to programmers. 
+
+[Unreal Engine YouTube Channel](https://www.youtube.com/user/UnrealDevelopmentKit) has lots of trainings, webinars, and tips & tricks available on many different concepts that you'd need to understand to be able to make games successfully in Unreal. 
