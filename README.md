@@ -27,6 +27,8 @@ designers to focus on content.
 
 [Unreal Engine](https://www.unrealengine.com) is the world’s most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds. 
 
+[Pico 8](https://www.lexaloffle.com/pico-8.php) is a fantasy console to build retro style games. It is a one-stop shop to write code, create music, images and anything else you need in a game.
+
 ## Fonts
 
 [RPG Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) is a fantastic font, based upon the idea of Font Awesome, RPG Awesome has dedicated icons for all your games
@@ -36,6 +38,8 @@ designers to focus on content.
 ## Music and Composition
 
 [Audio Jungle](https://audiojungle.net) is a marketplace for anything music and audio.
+
+[Free Sound](https://freesound.org) is a source for free music and audio to be used as long as license restrictions are met. 
 
 ## UI Design
 
