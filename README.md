@@ -11,6 +11,7 @@ Welcome to a list of Awesome Resources. For this unfamiliar with an "Awesome" li
 - [UI design](#ui-design)
 - [3D models, assets and textures](#3d-models-assets-textures)
 - [Tutorials](#tutorials)
+- [Tools](#tools)
 
 ## Game Engines
 
@@ -64,3 +65,7 @@ designers to focus on content.
 [Unreal Learning](https://learn.unrealengine.com/) is a learning platform for many different pathways of using Unreal, from content creators to programmers. 
 
 [Unreal Engine YouTube Channel](https://www.youtube.com/user/UnrealDevelopmentKit) has lots of trainings, webinars, and tips & tricks available on many different concepts that you'd need to understand to be able to make games successfully in Unreal. 
+
+## Tools
+
+[Cute Asset Pipeline](https://powerc9000.itch.io/cute-asset-pipeline) tool to export PSD layers to PNGs and bundle them into a texture atlas. Also helps you tag an manage your PDS assets.
