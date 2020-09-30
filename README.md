@@ -69,3 +69,6 @@ designers to focus on content.
 ## Tools
 
 [Cute Asset Pipeline](https://powerc9000.itch.io/cute-asset-pipeline) tool to export PSD layers to PNGs and bundle them into a texture atlas. Also helps you tag an manage your PDS assets.
+
+[Tiled](https://www.mapeditor.org/) a map editor, efficient tile editing tools like stamp, fill and terrain brushes. Rectangle, ellipse, polygon and image objects can be placed with pixel precision. Supports orthogonal, isometric and hexagonal maps.
+
